@@ -21,3 +21,6 @@ public class MobileBankApiTestV1 {
 
     }
 }
+
+
+//git update-index --chmod=+x gradlew
